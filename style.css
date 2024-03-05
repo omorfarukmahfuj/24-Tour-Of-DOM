@@ -1,0 +1,15 @@
+h1 {
+  color: lightseagreen;
+}
+
+#place-title {
+  color: crimson;
+}
+
+.important-places {
+  color: blueviolet;
+}
+
+#skills-container li {
+  color: blue;
+}
